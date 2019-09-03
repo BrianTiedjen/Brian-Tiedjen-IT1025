@@ -1,8 +1,10 @@
 # Executive Summary
-This lab is to show my progress through the class of IT 1025. The class covers the history and concepts of Information System. GetHub is going to be my base for updates, uploading assignments, and overall my main sorce for info.
+This lab is going to look at the idea of Information systems and how we use them throughout our day. It is going to look to how we use things like GitHub, Client servers and Cloud computing and how this is a Information System. 
 # Information System Components
+
 # GitHub 
 Client-Server Architecture  
 
 Cloud Computing
 # Conclusion  
+Through this lab I learned what the definiton of a Information system is, how much I use them in my life and what they are used for in business and in other peoples life.
