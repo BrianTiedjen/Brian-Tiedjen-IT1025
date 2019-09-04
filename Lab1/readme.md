@@ -6,4 +6,5 @@ I use the POS at work every day because I live at work. The hardware is just a s
 Client-Server Architecture  
 
 Cloud Computing
+Git hub is not stored anywhere physically on my computers or devices but it is my info and writing that I can acess anywhere at any time. I use things like google drive, I cloud, Plex, and steam. These are accounts that I don't fully own whats on it but I can acess to what I have on them
 # Conclusion  
