@@ -9,3 +9,4 @@ On a client sever we are inputing information to the site GitHub and then GitHub
 Cloud Computing
 Git hub is not stored anywhere physically on my computers or devices but it is my info and writing that I can access anywhere at any time. I use things like google drive, I cloud, Plex, and steam. These are accounts that I don't fully own whats on it but I can access to what I have on them
 # Conclusion  
+Though this lab I learned the definition of a Information System, how arbitray the definiton is, I learned how client-servers and cloud computning is and I got started in my IT 1025 class.
