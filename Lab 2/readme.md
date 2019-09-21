@@ -16,6 +16,8 @@ In a self check out. First the input tell the device what items I have scanned. 
 
 //A truth table identifies if something is true or faulse given the info that was inputed. A NAND gate is the exact oposite of a AND gate.//
 
+# Hardware: IEEE - Ethically Aligned Design
+
 # Memory
 RAM - Adding more RAM makes a computer run faster because this is the space it has to work with programs. Adding more RAM is giving it more "counter space" to work on the programs. ( This is how I explain RAM to older customers when I sell them computers)
 
