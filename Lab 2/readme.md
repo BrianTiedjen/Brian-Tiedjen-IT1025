@@ -14,7 +14,7 @@ In a self check out. First the input tell the device what items I have scanned. 
 
 #  Hardware: Logic Gates and Circuits
 
-//A truth table identifies if something is true or faulse given the info that was inputed. A NAND gate is the exact oposite of a AND gate//.
+A truth table identifies if something is true or faulse given the info that was inputed. Both parts of this need to be true for the table to give true and anything else will give false. A NAND gate is the exact oposite and will give an answer as true if it is false and it will give an anser is false if it is true.
 
 # Hardware: IEEE - Ethically Aligned Design
 
@@ -36,4 +36,4 @@ Hexadecimal - Base 16 counting using 0 - F
 # Data Representation: Hexadecimal Color Representation 
  The color #ff016b per the website https://www.colorhexa.com/ff016b states that "The hexadecimal color #ff016b has RGB values of R:255, G:1, B:107 and CMYK values of C:0, M:1, Y:0.58, K:0. Its decimal value is 16712043."
  
- The problem with the color is that it is a high constrast that is problematic for people with vision or color defficencys 
+ The problem with the color is that it is a high constrast that is problematic for people with vision or color defficencys but I am color blind and did not see a diffrence so I don't fully understand this.
