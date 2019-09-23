@@ -14,9 +14,11 @@ In a self check out. First the input tell the device what items I have scanned. 
 
 #  Hardware: Logic Gates and Circuits
 
-//A truth table identifies if something is true or faulse given the info that was inputed. A NAND gate is the exact oposite of a AND gate.//
+//A truth table identifies if something is true or faulse given the info that was inputed. A NAND gate is the exact oposite of a AND gate//.
 
 # Hardware: IEEE - Ethically Aligned Design
+
+The main purpose of IEEE is to have essencially a central base for all electrical enginers to be involed with work and to have a central area to work with. With the ethics of device design it is important to have the "do's and do nots" in all forms of engonerring to make sure everyone is on the same page. This is important for the AI as well because if example lets say an AI is set to do something, it can change the way it does this and the creators have to understand how it works even when it changes. 
 
 # Memory
 RAM - Adding more RAM makes a computer run faster because this is the space it has to work with programs. Adding more RAM is giving it more "counter space" to work on the programs. ( This is how I explain RAM to older customers when I sell them computers)
