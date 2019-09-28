@@ -8,5 +8,7 @@ Utility - Software that lets you fix or modify your computer in some way. This i
 
 Operating System Software - O/S software is the part of a computer that manages all the resources in a computer, Provides the user interface, and the platform to build and develop applications. Examples are Windows, Apple OS X, and Linux
 
+### ERP software
+
 
 # Conclusion
