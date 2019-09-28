@@ -1,3 +1,7 @@
+#Executive Summary
+
+This lab goes over how hardrives and cpu's work together and how they give an output. This lab also goes over how ram works and how data and colors are stored in binary
+
 # Hard Drives
 Latency - Is how long it takes for the HDD to find and use a file 
 
@@ -37,3 +41,7 @@ Hexadecimal - Base 16 counting using 0 - F
  The color #ff016b per the website https://www.colorhexa.com/ff016b states that "The hexadecimal color #ff016b has RGB values of R:255, G:1, B:107 and CMYK values of C:0, M:1, Y:0.58, K:0. Its decimal value is 16712043."
  
  The problem with the color is that it is a high constrast that is problematic for people with vision or color defficencys but I am color blind and did not see a diffrence so I don't fully understand this.
+
+#conclusion
+
+Through this lab I learned how the parts of a computer work together and how it thinks to give a result to the user in the end of its exactuion.
