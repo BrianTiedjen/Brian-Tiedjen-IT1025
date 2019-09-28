@@ -11,7 +11,7 @@ Operating System Software - O/S software is the part of a computer that manages 
 ### ERP software
 Enterprise resource planning is the way for large companies can have one application to hold all of their systems together and work under one central database as opposed to have 100s of computers on seperate databases. An example would be if a company such as amazon had multiple severs or multiple databases then things could get mixed up, orders could be lost, and people would get angry. Under one database everything is clean and saves the company millions by not having to spend time fixing errors.
 
-###Virtualization
+### Virtualization
 
 Virtualization uses software and not hardware to create a virtual computer. The reason one would do this is because a server can only use a small part of the capasity of a computer while virtualization can use the potental that is locked out when using a server.
 
