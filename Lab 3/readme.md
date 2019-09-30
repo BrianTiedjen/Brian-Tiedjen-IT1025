@@ -17,4 +17,8 @@ Virtualization uses software and not hardware to create a virtual computer. The 
 
 The thing that makes virtualization diffrent from cloud computing is that virtualization makes computers based on the physical structure of the device it is on while cloud computing uses shared computing resources by demeand from the internet.
 
+# Virtualization
+
+
+
 # Conclusion
