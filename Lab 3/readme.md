@@ -23,5 +23,10 @@ With Virtualization people could partition their severs to dedicate space for a 
 
 Hypervisors is the part that breaks the hardware from the software. They are typically on top of the O/S but can be installed inside of it. The hypervisor also is what partitions the hardware for the software so the VM can work efficently with the hardware that is running.
 
+# Python
+
+Pseudo code is closer to real life talking and is easier to read and code for computers.
+
+Interpreted languages is a when the code essecially has to be translated in a program but any O/S or anything can use this code if it has the way to read is, this is much slower. A compiled language is a code built for one O/S or one thing and is much faster because it is made to run on that O/S down to the byte.
 
 # Conclusion
