@@ -19,6 +19,9 @@ The thing that makes virtualization diffrent from cloud computing is that virtua
 
 # Virtualization
 
+With Virtualization people could partition their severs to dedicate space for a specific virtual machine and also would allow people to run "legacy apps" or older applications on many diffrent O/S types and versions. This cut costs overall in bussniess.
+
+Hypervisors is the part that breaks the hardware from the software. They are typically on top of the O/S but can be installed inside of it. The hypervisor also is what partitions the hardware for the software so the VM can work efficently with the hardware that is running.
 
 
 # Conclusion
