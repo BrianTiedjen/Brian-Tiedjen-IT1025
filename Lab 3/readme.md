@@ -29,4 +29,6 @@ Pseudo code is closer to real life talking and is easier to read and code for co
 
 Interpreted languages is a when the code essecially has to be translated in a program but any O/S or anything can use this code if it has the way to read is, this is much slower. A compiled language is a code built for one O/S or one thing and is much faster because it is made to run on that O/S down to the byte.
 
+#  Career Exploration 
+
 # Conclusion
