@@ -31,4 +31,16 @@ Interpreted languages is a when the code essecially has to be translated in a pr
 
 #  Career Exploration 
 
+## College Central 
+
+I found several basic help desk internships in the area and also found some other overall technology internships that people starting off could definatly use to get their foot in the door or maybe even use as experince to get more into the IT field.
+
+## Ocupation Finder
+
+I found things like network admins and electrical engineer and what I saw on the website is many of them typically have a bachlers degree. I found this odd because almost all of the IT professionals I know and have met have an associates or lower in the jobs they have normally making six figures.
+
+## Certifications
+
+I looked at the cisco certs and from my understanding many of them can garentee you a job if you have one. It is very cool that they have something like this because if it was job experince deciding wherter you got a job or not many people would be out of luck. This makes it much easier to get into places. I plan to use a voucer for the CCNA if it is possible.
+
 # Conclusion
