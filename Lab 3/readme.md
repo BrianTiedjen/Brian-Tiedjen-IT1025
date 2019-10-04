@@ -43,4 +43,10 @@ I found things like network admins and electrical engineer and what I saw on the
 
 I looked at the cisco certs and from my understanding many of them can garentee you a job if you have one. It is very cool that they have something like this because if it was job experince deciding wherter you got a job or not many people would be out of luck. This makes it much easier to get into places. I plan to use a voucer for the CCNA if it is possible.
 
+On the Tri-C site I found classes directly for the CCNA cirtification and I actually plan to take now that I know it is something that is offered through the school.
+
+## Co-ops / Internships
+
+
+
 # Conclusion
