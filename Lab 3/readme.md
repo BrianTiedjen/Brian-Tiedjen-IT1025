@@ -47,6 +47,12 @@ On the Tri-C site I found classes directly for the CCNA cirtification and I actu
 
 ## Co-ops / Internships
 
+### Co-op eligibility
 
+To be eligable you must be enrolled at Tri-C, 12 credit hours completed with at least 2 courses in your degree, and a GPA of 2.75 or higher. The benifits are that you can get a foot in the door of someonewhere in your field, you can have job expernce that many employers look for, get training better than any classroom can offer, and on top of all of that you get college credits for every 180 hours worked in a Co-op
+
+## Industry Associations / Student Organizations
+
+I chose Cybersecurity club because it shows you not only how to start in cybersecurity but they give you a real look at what hackers will really do and how to protect against it. Any IT field you are going into will be able to benifit from the club. I have personally gone to some of the meetings and I learned a good amount from just the meeting I went too. It is also very helpful to network with other people in your field so you can have contacts and friends for the future.
 
 # Conclusion
