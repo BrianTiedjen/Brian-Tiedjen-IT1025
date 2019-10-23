@@ -1,3 +1,6 @@
+# Executive summary
+
+This lession is going over how python and graphics works and also breifly goes over Command promt (CMD)
 # Python IDLE
 
 Shell takes code inputed and outputs them immideatly. It is basically where you code. It is good for testing lines of code or progrmas. The file editor is where you run the programs.
@@ -15,3 +18,8 @@ Lossless vs. Lossy Compression - Lossless will keep it the exact same as it was 
  
 File Formats - All of these allow you to store a picture but GIF is the only one that allows animation. Jpeg is good at screenshots of movies or games, PNG is good with line art and allows you to use transparency.
  
+ My image design is for the Metro IT club and I used 2 layers. 
+ The File size is 44.4 kb and I opened it with microsoft photos becasue it is a png now.
+# Conclusion 
+
+In this lesson I added a lot of photos it my github to show my progress with the lesson. I also learned about diffrent file formats and how each is affected in file form. I also made a logo.
