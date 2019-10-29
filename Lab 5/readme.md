@@ -37,7 +37,9 @@ DNS -Directory of IP address common names.  For example 54.239.26.214 might be t
  
  # Cybersecurity and Encryption 
 
-## A
+##Information Systems Security
+
+### A
 
 Confidentiality -  In the role I would have to verify accounts and possibly credit cards so it is important I do not share or copy any info given to me
 
@@ -45,11 +47,11 @@ Intergrity - Also in that role I would also be inside of client accounts so I wo
 
 Avaliblity - Given the role I would have to change things in the accounts so the final part is the fact that Amazon would give me access to get inside of the accounts in a timely manner and after the proper varification.
 
-## B
+### B
 
 Three things I have to varify every day is my bank app, my works employee app, and my Xbox/Nintendo account. Two of them already are as I use an app called "authenticator" which requires a code when you try to go into the account. My gaming accounts I belive offer an option to send a text before I can buy anything
 
-## C
+### C
 
 ACL - Recources are tied to the user so if a user has a ton of data on the account it is really hard to remove it. It is good because it is simple and easy to understand though.
 
