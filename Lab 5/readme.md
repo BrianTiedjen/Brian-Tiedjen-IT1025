@@ -57,3 +57,6 @@ ACL - Recources are tied to the user so if a user has a ton of data on the accou
 
 RBAC - This makes it much easier on the adminitrator, they can make a role and give the roles rights. And instead of giving roles or rights to person to person you give a person the role.
 
+### D
+
+ciphertext- This works like a key for a encription. You need to have this in order to acess the data.
