@@ -1,3 +1,7 @@
+# Executive summary
+
+In this lesson I will be going over how networks work to both transfer data and how hackers use ciphers to break into those networks. We will be using Lucid chart to make a visual for this
+
 # Lucid chat
 
 Lucid chat is a strange app but I feel it can be very useful while coding. It is a space where I can put on paper what I am trying to do and it will be useful to explain my code to other people. Overall it was fun.
@@ -72,3 +76,7 @@ poluaphabetic - It is like a caeser cipher but uses more shifts in it for better
 I notice that it seems almost random but it isn't. There is so much movement in it with the shifts that it causes a jumble even worse than before.
 
 Brute-Force - Brute force is what it means to hit your head to the wall till something works. It tries hundreds of times with different shifts at different places until it finds the correct words. After spending some time looking at this I fail to see how they are supposed to be connected.
+
+# Conclusion
+
+We went over various forms of network managment and also showed how to set one up. We also build charts in lucid chart and got to play around with ciphers and how each kind works.
