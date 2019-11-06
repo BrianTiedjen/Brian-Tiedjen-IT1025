@@ -32,3 +32,7 @@ Why?- You should secure your browser because there is always a risk of compromis
 Risks - I saw plug ins as a risk as they can cause buffer overflows and have flaws that can be used to compromize data and or your computer.
 
 #  Internet Programming 
+
+Tim- Tim Berners-Lee created the world wide web and he created W3C to keep the WWW in its full portental and ensure long term growth of it and talks about a vision of "One Web"
+
+Standards- The standard I like is the web of devices. The reason it is imortant is beacuase the internet is a wealth of knowlage and the ability to acess it at any time will be important at all times. This standard is to make it that the interet is acessesable from anywhere at any time
