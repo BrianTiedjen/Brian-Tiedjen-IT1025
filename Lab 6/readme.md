@@ -21,6 +21,14 @@ Aplication layer- Going through the article it looks like most HTTP applications
 
 ## Internet Security
 
-HTTP is the webs application layer and &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+HTTP - is the webs applicattion layer and is used to transfer data across the internet. The info is sent in plain text however. This works in client sever because it is used because it communicates accross the web/ sever to the client
+
+Protocals - The protocals used to protect info is HTTPS which encripts the data sent out so people can not read it. It also can use SSL which makes a website identify itself using a SSL cert. TLS is now the biggest security It is the secsess to SSL and uses the same method with checking certs.
+
+## Securing Your Web Browser
+
+Why?- You should secure your browser because there is always a risk of compromising your computer so keeping it proteced up front will help with this.
+
+Risks - I saw plug ins as a risk as they can cause buffer overflows and have flaws that can be used to compromize data and or your computer.
 
 #  Internet Programming 
