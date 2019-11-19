@@ -36,3 +36,13 @@ Risks - I saw plug ins as a risk as they can cause buffer overflows and have fla
 Tim- Tim Berners-Lee created the world wide web and he created W3C to keep the WWW in its full portental and ensure long term growth of it and talks about a vision of "One Web"
 
 Standards- The standard I like is the web of devices. The reason it is imortant is beacuase the internet is a wealth of knowlage and the ability to acess it at any time will be important at all times. This standard is to make it that the interet is acessesable from anywhere at any time
+
+# HTML5 and CSS
+
+The purpose of HTML5 is to have a set building block to make a webpage and to streamline it. It makes it so anyone even a idiot can make these webpages. CSS is used as a simple way to make a webpage look pretty and it makes it very simple to make it pretty. It is also almost the exact same and un psuocode which makes it even easier.
+
+My page - My web page I took a simple approch to it and made it just a excuse to nerd out about red pandas and get really excited about them. I followed the instructions to a tee.
+
+# HTML and XML
+
+HTML - HTML describes the presientation while XML describes the contenet as in it does not predefine tags.
