@@ -45,4 +45,4 @@ My page - My web page I took a simple approch to it and made it just a excuse to
 
 # HTML and XML
 
-HTML - HTML describes the presientation while XML describes the contenet as in it does not predefine tags.
+HTML - HTML describes the presientation while XML describes the contenet as in it does not predefine tags. XML also simplifies things a lot
