@@ -6,3 +6,4 @@ Shrinking files - I noticed that with my SVG file that there was only a slight c
 
 # Object Oreiented Programing
 
+Method of the shark class - 
