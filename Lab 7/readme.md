@@ -1,3 +1,6 @@
+# Executive summary
+
+This lesson is a bit strange but I will be going over File compressions, Object oriented programing, and 
 # File Compression
 
 File compression is making a file smaller and more compact and can also be transfered faster.
@@ -23,10 +26,12 @@ object - Sammy - This is the name of the shark
 
 class - definition of a shark - It is the blueprints
 
-abstraction - shark
+abstraction - shark - Its the idea of the object
 
-encapsulation - swim(self) - 
+encapsulation - swim(self) - A action in a method for the shark
 
-inheritance - a specific type of shark - N
+inheritance - a specific type of shark - It specifies the family of shark
 
-#
+# Conclusion
+
+In this section I went through the why compressed files work and why we use them, How object oriented programing works aswell as the compentets of it, I also went of UML and its purpose.
