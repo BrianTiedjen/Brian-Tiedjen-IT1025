@@ -18,3 +18,15 @@ OMG- This stands for Object Management Group which is the group that overlooks t
 
 UML - Is a language is that is used for modeling a plan. It is a OOP method essicanlly. In the words of the website " UML has applications beyond software development, such as process flow in manufacturing." 
 
+## Definitons
+object - Sammy - This is the name of the shark
+
+class - definition of a shark - It is the blueprints
+
+abstraction - shark
+
+encapsulation - swim(self) - 
+
+inheritance - a specific type of shark - N
+
+#
